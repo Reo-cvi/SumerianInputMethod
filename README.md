@@ -44,3 +44,21 @@ regsvr32 SumerianIME.dll
 [ ] Highly customizable IME configurations (TBD)
 
 ...and much more.
+
+![QQ20260226-171504-HD (online-video-cutter com)](https://github.com/user-attachments/assets/c38e1148-395f-4ef8-a028-fc5cffcb834b)
+
+**𒅆𒍪𒉈𒉈𒀀 𒊮𒈬𒁀𒄾**
+
+见到你们，我由衷地高兴。
+
+It brings me profound joy to meet you all.
+
+皆様にお会いできて、心より嬉しく存じます。
+
+여러분을 만나 뵙게 되어 진심으로 기쁘게 생각합니다.
+
+C'est avec une joie profonde que je vous accueille ici.
+
+È con profonda gioia che vi incontro.
+
+Es erfüllt mich mit aufrichtiger Freude, euch zu begegnen.
