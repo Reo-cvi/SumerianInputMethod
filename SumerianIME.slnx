@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SumerianIME/SumerianIME.vcxproj" Id="ba0f1569-dd5e-4cb9-b36a-572ff3fb122c" />
+</Solution>
